@@ -1,3 +1,13 @@
+# Instrucciones
+Crea un título que diga “Hello xxx” donde xxx esté enlazado al valor de un input donde el usuario
+pueda introducir el nombre del mismo.
+
+
+Añade otro campo que setee el color del input donde se introduce el nombre del usuario y del
+mensaje “Hello xxx”. La solución con colores puedes encontrarla en:
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
